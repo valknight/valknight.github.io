@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Val Knight&#39;s Text Dumping Ground</title>
+    <link>https://www.valknight.xyz/tags/projects/</link>
+    <description>Recent content in Projects on Val Knight&#39;s Text Dumping Ground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Content licensed under NPLv2</copyright>
+    <lastBuildDate>Sat, 04 Jan 2020 21:04:01 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.valknight.xyz/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tautulli, an Inky pHATs, and 6 hours while on holiday.</title>
+      <link>https://www.valknight.xyz/posts/2020-01/tautulli-inky-phats-holiday/</link>
+      <pubDate>Sat, 04 Jan 2020 21:04:01 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/posts/2020-01/tautulli-inky-phats-holiday/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;Like a few others, I run Plex Media Server for me, and close friends + family, and, I also run the absolutely amazing Tautulli server. I&amp;rsquo;ve messed around with Tautulli&amp;rsquo;s API in the past, but, never to any good extent. My most used function of Tautulli is actually the graphs, as it lets me see how well used the server is.&lt;/p&gt;
+&lt;p&gt;Only issue is, you have to open up a web browser, log in, and go to the graphs page &lt;em&gt;every&lt;/em&gt; time you want to look at this - we&amp;rsquo;re in the roaring 20s now, this cannot be.&lt;/p&gt;
+&lt;h1 id=&#34;approach&#34;&gt;Approach&lt;/h1&gt;
+&lt;p&gt;Enter: &lt;a href=&#34;https://shop.pimoroni.com/products/inky-phat?variant=12549254938707&#34;&gt;Pimoroni&amp;rsquo;s Inky pHAT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This little e-ink display I&amp;rsquo;ve used before now to show stats for a Minecraft server, and to show system uptime, and I adore it - the library is fantastic, as it just lets you push an image on it, and it&amp;rsquo;ll be rendered in fantastic 212x104 resolution, with a whole 3(!) colours.&lt;/p&gt;
+&lt;p&gt;Sarcasm aside, I&amp;rsquo;m a big fan of it. It&amp;rsquo;s a cheap e-ink display with a Python library that&amp;rsquo;s easy to work with. As such, I thought &amp;ldquo;how hard could it be?&amp;rdquo; to get the graph from Tautulli, and put it on my Inky pHAT - after all, Tautulli has an API, and I can pull the data, make a graph in python, and put said graph into an image and show it on the Pi.&lt;/p&gt;
+&lt;h1 id=&#34;solution&#34;&gt;Solution&lt;/h1&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://www.valknight.xyz/images/inky_phat_tautulli.jpg&#34;  alt=&#34;A graph showing tautulli activity on an INky pHAT&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;right&#34; &gt;The Pi itself &#34;mounted&#34; on a wall with some tape.&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;A few hours later, and, &lt;a href=&#34;https://github.com/valknight/tautulli-inkyphat&#34;&gt;tautulli-inkyphat&lt;/a&gt; is on GitHub. It&amp;rsquo;s relatively easy to set up, and, for light-medium Plex users, it should suffice. It assumes you&amp;rsquo;ve already set up the libraries for the Inky pHAT (which takes 5 minutes tops! Check Pimoroni&amp;rsquo;s latest installation guide for advice). You can then use &lt;code&gt;crontab&lt;/code&gt; to set up a schedule to run &lt;code&gt;main.py&lt;/code&gt; on, and you&amp;rsquo;ve now got an updating graph!&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not the prettiest but, it works very well for me and &lt;strong&gt;I now have a cute little graph that&amp;rsquo;s easy to read!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Vallerie&lt;/p&gt;
+&lt;p&gt;[she/they]&lt;/p&gt;
+&lt;h1 id=&#34;links-references-etc-etc&#34;&gt;Links, references, etc etc&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Inky pHAT
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://shop.pimoroni.com/products/inky-phat?variant=12549254938707&#34;&gt;Shop link&lt;/a&gt; - I&amp;rsquo;m not sponsored, it&amp;rsquo;s just very good&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-inky-phat&#34;&gt;Getting started guide&lt;/a&gt; - this has the setup described for the python library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/valknight/tautulli-inkyphat&#34;&gt;https://github.com/valknight/tautulli-inkyphat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Val Knight&#39;s Text Dumping Ground</title>
+    <link>https://www.valknight.xyz/tags/</link>
+    <description>Recent content in Tags on Val Knight&#39;s Text Dumping Ground</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Content licensed under NPLv2</copyright>
+    <lastBuildDate>Sun, 24 Jan 2021 02:05:37 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.valknight.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal</title>
+      <link>https://www.valknight.xyz/tags/personal/</link>
+      <pubDate>Sun, 24 Jan 2021 02:05:37 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitch</title>
+      <link>https://www.valknight.xyz/tags/twitch/</link>
+      <pubDate>Sun, 24 Jan 2021 02:05:37 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/tags/twitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Games</title>
+      <link>https://www.valknight.xyz/tags/video-games/</link>
+      <pubDate>Sun, 24 Jan 2021 02:05:37 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/tags/video-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plex</title>
+      <link>https://www.valknight.xyz/tags/plex/</link>
+      <pubDate>Sat, 04 Jan 2020 21:04:01 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/tags/plex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.valknight.xyz/tags/projects/</link>
+      <pubDate>Sat, 04 Jan 2020 21:04:01 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://www.valknight.xyz/tags/raspberry-pi/</link>
+      <pubDate>Sat, 04 Jan 2020 21:04:01 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick</title>
+      <link>https://www.valknight.xyz/tags/quick/</link>
+      <pubDate>Sat, 04 Jan 2020 10:48:24 +0000</pubDate>
+      
+      <guid>https://www.valknight.xyz/tags/quick/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
