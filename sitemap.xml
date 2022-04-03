@@ -1,94 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.valknight.xyz/posts/2021-01/becoming-the-cookstar/</loc>
-    <lastmod>2021-01-24T02:05:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/personal/</loc>
-    <lastmod>2021-01-24T02:05:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/posts/</loc>
-    <lastmod>2021-01-24T02:05:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/</loc>
-    <lastmod>2021-01-24T02:05:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/twitch/</loc>
-    <lastmod>2021-01-24T02:05:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/</loc>
-    <lastmod>2021-01-24T02:05:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/video-games/</loc>
-    <lastmod>2021-01-24T02:05:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/posts/2020-06/transphobia-and-the-internet/</loc>
-    <lastmod>2020-06-13T11:58:38+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/posts/2020-04/tdov-2020/</loc>
-    <lastmod>2020-04-01T13:45:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/posts/2020-01/i-wanted-to-do-photography/</loc>
-    <lastmod>2020-01-11T15:22:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/plex/</loc>
-    <lastmod>2020-01-04T21:04:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/projects/</loc>
-    <lastmod>2020-01-04T21:04:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/raspberry-pi/</loc>
-    <lastmod>2020-01-04T21:04:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/posts/2020-01/tautulli-inky-phats-holiday/</loc>
-    <lastmod>2020-01-04T21:04:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/about/</loc>
-    <lastmod>2020-01-04T10:48:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/tags/quick/</loc>
-    <lastmod>2020-01-04T10:48:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/posts/2020-01/first-post/</loc>
-    <lastmod>2020-01-04T10:31:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.valknight.xyz/categories/</loc>
-  </url>
-  
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>/posts/</loc><lastmod>2022-04-03T22:16:55+01:00</lastmod></url><url>
+    <loc>/posts/2022-04/this-place-exhausts-me/</loc><lastmod>2022-04-03T22:16:55+01:00</lastmod></url><url>
+    <loc>/</loc><lastmod>2022-04-03T22:16:55+01:00</lastmod></url><url>
+    <loc>/posts/2020-06/transphobia-and-the-internet/</loc><lastmod>2020-06-13T11:58:38+01:00</lastmod></url><url>
+    <loc>/posts/2020-04/tdov-2020/</loc><lastmod>2020-04-01T13:45:47+01:00</lastmod></url><url>
+    <loc>/posts/2020-01/i-wanted-to-do-photography/</loc><lastmod>2020-01-11T15:22:56+00:00</lastmod></url><url>
+    <loc>/tags/personal/</loc><lastmod>2020-01-11T15:22:56+00:00</lastmod></url><url>
+    <loc>/tags/</loc><lastmod>2020-01-11T15:22:56+00:00</lastmod></url><url>
+    <loc>/posts/2020-01/an-ode-to-the-quiet-internet/</loc><lastmod>2020-01-07T22:39:28+00:00</lastmod></url><url>
+    <loc>/tags/plex/</loc><lastmod>2020-01-04T21:04:01+00:00</lastmod></url><url>
+    <loc>/tags/projects/</loc><lastmod>2020-01-04T21:04:01+00:00</lastmod></url><url>
+    <loc>/tags/raspberry-pi/</loc><lastmod>2020-01-04T21:04:01+00:00</lastmod></url><url>
+    <loc>/posts/2020-01/tautulli-inky-phats-holiday/</loc><lastmod>2020-01-04T21:04:01+00:00</lastmod></url><url>
+    <loc>/about/</loc><lastmod>2020-01-04T10:48:24+00:00</lastmod></url><url>
+    <loc>/tags/quick/</loc><lastmod>2020-01-04T10:48:24+00:00</lastmod></url><url>
+    <loc>/posts/2020-01/first-post/</loc><lastmod>2020-01-04T10:31:43+00:00</lastmod></url><url>
+    <loc>/categories/</loc></url></urlset>

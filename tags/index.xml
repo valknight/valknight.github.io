@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Val Knight&#39;s Text Dumping Ground</title>
+    <title>Tags on Val Knight</title>
     <link>https://www.valknight.xyz/tags/</link>
-    <description>Recent content in Tags on Val Knight&#39;s Text Dumping Ground</description>
+    <description>Recent content in Tags on Val Knight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Content licensed under NPLv2</copyright>
-    <lastBuildDate>Sun, 24 Jan 2021 02:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 15:22:56 +0000</lastBuildDate>
     
         <atom:link href="https://www.valknight.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +14,9 @@
     <item>
       <title>Personal</title>
       <link>https://www.valknight.xyz/tags/personal/</link>
-      <pubDate>Sun, 24 Jan 2021 02:05:37 +0000</pubDate>
+      <pubDate>Sat, 11 Jan 2020 15:22:56 +0000</pubDate>
       
       <guid>https://www.valknight.xyz/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitch</title>
-      <link>https://www.valknight.xyz/tags/twitch/</link>
-      <pubDate>Sun, 24 Jan 2021 02:05:37 +0000</pubDate>
-      
-      <guid>https://www.valknight.xyz/tags/twitch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video Games</title>
-      <link>https://www.valknight.xyz/tags/video-games/</link>
-      <pubDate>Sun, 24 Jan 2021 02:05:37 +0000</pubDate>
-      
-      <guid>https://www.valknight.xyz/tags/video-games/</guid>
       <description></description>
     </item>
     
