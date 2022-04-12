@@ -12,6 +12,31 @@
     
     
     <item>
+      <title>K.K. Slider Bot Privacy</title>
+      <link>https://www.valknight.xyz/kk-slider-privacy/</link>
+      <pubDate>Tue, 12 Apr 2022 16:57:36 +0100</pubDate>
+      
+      <guid>https://www.valknight.xyz/kk-slider-privacy/</guid>
+      <description>&lt;p&gt;oh hello there - you checked the privacy policy. good on you!&lt;/p&gt;
+&lt;p&gt;so, this one is going to be a bit shorter than other privacy policys you&amp;rsquo;ve seen. instead of being all like &amp;ldquo;ooooh we&amp;rsquo;re gonna take this data maybe if it&amp;rsquo;s the 9th of may and the moon is a little shiny&amp;rdquo;, i&amp;rsquo;m going to do it like this&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;going to set out what i collect&lt;/li&gt;
+&lt;li&gt;why i do it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;but, if that&amp;rsquo;s too long, here&amp;rsquo;s the short version: i don&amp;rsquo;t track you, or sell any data. we don&amp;rsquo;t have the message content intent enabled on Discord&amp;rsquo;s side, so we can only read / commands directly tied to this bot.&lt;/p&gt;
+&lt;p&gt;SO - here we go!&lt;/p&gt;
+&lt;h2 id=&#34;guild-server-identifiers&#34;&gt;Guild (Server) Identifiers&lt;/h2&gt;
+&lt;p&gt;This is a long numerical ID tied to your server, and is something like 123456789012345678. We use this to make sure your K.K&amp;rsquo;s preferences. We don&amp;rsquo;t share it.&lt;/p&gt;
+&lt;h2 id=&#34;preferences&#34;&gt;Preferences&lt;/h2&gt;
+&lt;p&gt;Your preferences (at time of writing) include things like the voice channel we last connected to, your timezone, and the upcoming request query.&lt;/p&gt;
+&lt;h2 id=&#34;the-future&#34;&gt;The &lt;strong&gt;future&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Future features might look at the permissions you have in Discord, to make sure you&amp;rsquo;re allowed to change the bots settings in that server. We won&amp;rsquo;t store any of this.&lt;/p&gt;
+&lt;p&gt;Future features also might add more data to our preference storing. Again, this won&amp;rsquo;t be used to track you, and we won&amp;rsquo;t share it.&lt;/p&gt;
+&lt;p&gt;TL;DR - We don&amp;rsquo;t track you! ~&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>https://www.valknight.xyz/posts/</link>
       <pubDate>Sun, 03 Apr 2022 22:16:55 +0100</pubDate>
