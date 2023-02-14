@@ -613,10 +613,6 @@ video {
   outline-style: solid;
 }
 
-.outline-dotted {
-  outline-style: dotted;
-}
-
 .outline-0 {
   outline-width: 0px;
 }
@@ -647,16 +643,8 @@ video {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
-.hover\:outline-2:hover {
-  outline-width: 2px;
-}
-
 .hover\:outline-4:hover {
   outline-width: 4px;
-}
-
-.hover\:outline-offset-2:hover {
-  outline-offset: 2px;
 }
 
 .hover\:outline-offset-4:hover {
