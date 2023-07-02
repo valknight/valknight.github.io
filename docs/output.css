@@ -551,7 +551,7 @@ video {
   flex: 1;
   flex-grow: 1;
   padding: 1rem;
-  margin: 4px;
+  margin: 0.25rem;
   background-color: rgba(216, 214, 210, 0.5);
   line-height: normal;
 }
@@ -606,6 +606,10 @@ video {
   color: #FFF;
 }
 
+.debugger-content {
+  background-color: rgba(50, 39, 47, 0.8);
+}
+
 .card-cta {
   bottom: 0px;
   text-align: center;
@@ -651,10 +655,6 @@ video {
 
 .justify-self-end {
   justify-self: end;
-}
-
-.rounded-lg {
-  border-radius: 0.5rem;
 }
 
 .bg-theme-dark {

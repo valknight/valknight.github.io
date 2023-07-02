@@ -30,7 +30,7 @@
       flex: 1;
       flex-grow: 1; 
       padding: theme('spacing.4');
-      margin: 4px;
+      margin: theme('spacing.1');
       background-color: rgba(216, 214, 210, 0.5);
       line-height: normal;
     }
@@ -89,6 +89,9 @@
       color: #FFF;
     }
 
+    .debugger-content {
+      background-color: rgba(50, 39, 47, 0.8);
+    }
 
     .card-cta {
       bottom: 0px;
