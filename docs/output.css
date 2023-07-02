@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com
+! tailwindcss v3.3.2 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -31,6 +31,7 @@
 3. Use a more readable tab size.
 4. Use the user's configured `sans` font-family by default.
 5. Use the user's configured `sans` font-feature-settings by default.
+6. Use the user's configured `sans` font-variation-settings by default.
 */
 
 html {
@@ -47,6 +48,8 @@ html {
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
+  font-variation-settings: normal;
+  /* 6 */
 }
 
 /*
@@ -433,6 +436,9 @@ video {
   --tw-pan-y:  ;
   --tw-pinch-zoom:  ;
   --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
   --tw-ordinal:  ;
   --tw-slashed-zero:  ;
   --tw-numeric-figure:  ;
@@ -480,6 +486,9 @@ video {
   --tw-pan-y:  ;
   --tw-pinch-zoom:  ;
   --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
   --tw-ordinal:  ;
   --tw-slashed-zero:  ;
   --tw-numeric-figure:  ;
@@ -513,6 +522,101 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.card {
+  color: #32272F;
+  background-color: #D8D6D2;
+  outline: 2px;
+  outline-color: black;
+  outline-style: solid;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  min-height: 256px;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+}
+
+@font-face {
+  font-family: "w95fa";
+
+  src: url(fonts/w95fa.woff);
+}
+
+@font-face {
+  font-family: "amazdoom";
+
+  src: url(fonts/AmazDooMLeft.ttf);
+}
+
+.card-content {
+  flex: 1;
+  flex-grow: 1;
+  padding: 1rem;
+  margin: 4px;
+  background-color: rgba(216, 214, 210, 0.5);
+  line-height: normal;
+}
+
+.card-title {
+  padding: 0.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.dualpets-title {
+  font-family: "w95fa", Arial, Helvetica, sans-serif;
+  background-color: #000080;
+  color: #CFCFE7;
+  border: #C3C6CB ridge 2px;
+}
+
+.dualpets-cta {
+  font-family: "w95fa", Arial, Helvetica, sans-serif;
+  background-color: #C3C7CB;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  margin: 4px;
+  text-align: center;
+  padding: 3px 4px 3px 4px;
+}
+
+.snip-and-shear-title {
+  padding: 0px;
+  font-family: "amazdoom", Arial, Helvetica, sans-serif;
+  background-color: #000;
+  color: #FFF;
+  height:24px;
+  padding-top: 0px;
+  border-width: 0px;
+  border-top: 20px;
+  border-style: solid;
+  border-color: black;
+  font-size: x-large;
+  box-sizing: content-box;
+}
+
+.brighton-title {
+  background-color: #FFA500;
+  scale: 1.05;
+  rotate: -2deg;
+}
+
+.debugger-title {
+  background-color: #F8139A;
+  color: #FFF;
+}
+
+.card-cta {
+  bottom: 0px;
+  text-align: center;
+  margin: 4px;
+  padding: 4px;
+  text-decoration: underline;
+  text-decoration-style: solid;
+}
+
+/* ... */
+
 .m-2 {
   margin: 0.5rem;
 }
@@ -521,12 +625,20 @@ video {
   display: grid;
 }
 
+.list-disc {
+  list-style-type: disc;
+}
+
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
 .grid-cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.items-center {
+  align-items: center;
 }
 
 .justify-items-stretch {
@@ -541,31 +653,53 @@ video {
   justify-self: end;
 }
 
-.rounded {
-  border-radius: 0.25rem;
+.rounded-lg {
+  border-radius: 0.5rem;
 }
 
-.bg-black {
+.bg-theme-dark {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+  background-color: rgb(50 39 47 / var(--tw-bg-opacity));
 }
 
-.bg-gradient-to-r {
-  background-image: linear-gradient(to right, var(--tw-gradient-stops));
+.bg-cards-debugger {
+  background-image: url('img/debugger.webp');
 }
 
-.from-fuchsia-300 {
-  --tw-gradient-from: #f0abfc;
-  --tw-gradient-to: rgb(240 171 252 / 0);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+.bg-cards-dualpets {
+  background-image: url('img/mr-business-blur-crop.webp');
 }
 
-.to-pink-300 {
-  --tw-gradient-to: #f9a8d4;
+.bg-cards-snipandshear {
+  background-image: url('img/snip-and-shear.webp');
+}
+
+.p-0 {
+  padding: 0px;
+}
+
+.p-2 {
+  padding: 0.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .p-8 {
   padding: 2rem;
+}
+
+.pb-2 {
+  padding-bottom: 0.5rem;
+}
+
+.pl-6 {
+  padding-left: 1.5rem;
+}
+
+.pt-0 {
+  padding-top: 0px;
 }
 
 .font-mono {
@@ -577,26 +711,43 @@ video {
   line-height: 2rem;
 }
 
-.font-thin {
-  font-weight: 100;
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .font-black {
   font-weight: 900;
 }
 
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+.font-normal {
+  font-weight: 400;
 }
 
-.text-pink-500 {
+.font-thin {
+  font-weight: 100;
+}
+
+.text-theme-light {
   --tw-text-opacity: 1;
-  color: rgb(236 72 153 / var(--tw-text-opacity));
+  color: rgb(216 214 210 / var(--tw-text-opacity));
 }
 
 .underline {
   text-decoration-line: underline;
+}
+
+.decoration-solid {
+  text-decoration-style: solid;
+}
+
+.decoration-1 {
+  text-decoration-thickness: 1px;
 }
 
 .underline-offset-4 {
@@ -613,8 +764,12 @@ video {
   outline-style: solid;
 }
 
-.outline-0 {
-  outline-width: 0px;
+.outline-1 {
+  outline-width: 1px;
+}
+
+.outline-2 {
+  outline-width: 2px;
 }
 
 .outline-offset-0 {
@@ -638,9 +793,9 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.hover\:bg-black:hover {
+.hover\:bg-theme-dark:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+  background-color: rgb(50 39 47 / var(--tw-bg-opacity));
 }
 
 .hover\:outline-4:hover {
@@ -652,12 +807,20 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .md\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
 
 @media (min-width: 1280px) {
+  .xl\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .xl\:grid-cols-6 {
     grid-template-columns: repeat(6, minmax(0, 1fr));
   }
