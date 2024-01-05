@@ -1,0 +1,107 @@
+{
+    "schemaVer": 0,
+    "cppLabel": "this is dynamic content from JSON baybeee",
+    "sections": [
+        {
+            "sectionId": "bio",
+            "sectionName": "About me",
+            "content": [
+                {
+                    "projectId": "short-line",
+                    "projectName": "Hi! I\\'m Val",
+                    "projectDesc": "I make computers do funny interactive things, and believe that games can inspire & move us. I want to be part of helping creators have the tools and skills to make these games - in the way they want.<br><br>previously @ Unity Technologies as a Software Engineer Intern, Engine Support (July 2022 -> June 2023)",
+                    "projectLink": "#"
+                },
+                {
+                    "projectId": "cv",
+                    "projectName": "CV",
+                    "projectLink": "cv_current_2024.pdf"
+                }
+            ]
+        },
+        {
+            "sectionId": "socials",
+            "sectionName": "Socials",
+            "content": [
+                {
+                    "projectId": "itch",
+                    "projectName": "itch.io",
+                    "projectDesc": "games go here :)",
+                    "projectLink": "https://vallerieknight.itch.io/"
+                },
+                {
+                    "projectId": "github",
+                    "projectName": "github",
+                    "projectDesc": "not-games go here :)",
+                    "projectLink": "https://github.com/valknight"
+                },
+                {
+                    "projectId": "cohost",
+                    "projectName": "cohost",
+                    "projectDesc": "",
+                    "projectLink": "https://cohost.org/vallerie"
+                },
+                {
+                    "projectId": "linkedin",
+                    "projectName": "linkedin",
+                    "projectDesc": "",
+                    "projectLink": "https://www.linkedin.com/in/vallerie-knight-25904b227/"
+                },
+                {
+                    "projectId": "mastodon",
+                    "projectName": "mastodon",
+                    "projectDesc": "",
+                    "projectLink": "https://gamedev.lgbt/@val"
+                }
+            ]
+        },
+        {
+            "sectionId": "projects",
+            "sectionName": "Projects",
+            "content": [
+                {
+                    "projectId": "website",
+                    "projectName": "This Website",
+                    "projectDesc": "Learning familiarity with WebAssembly toolchains & raylib, and experimenting with having a website primarily driven by C++",
+                    "projectLink": "#"
+                },
+                {
+                    "projectId": "cohost-py",
+                    "projectName": "cohost.py",
+                    "projectDesc": "open source wrapper for cohost.org\\'s unofficial API<br>designed to make bots, tools, experiments, all that jazz",
+                    "projectLink": "https://github.com/valknight/cohost.py"
+                },
+                {
+                    "projectId": "com-valknight-markiplier",
+                    "projectName": "com.valknight.markiplier",
+                    "projectDesc": "a tiny unity package so you can have Markiplier\\'s face cam helping you out while making games",
+                    "projectLink": "https://github.com/valknight/com.valknight.markiplier"
+                }
+            ]
+        },
+        {
+            "sectionId": "jam-games",
+            "sectionName": "Jam Games",
+            "content": [
+                {
+                    "projectId": "ship-and-shear",
+                    "projectName": "Snip and Shear",
+                    "projectDesc": "DOOM clone, where you must Snip and Shear until it is done.<br>made for Global Game Jam 2022, with the theme \"roots\".",
+                    "projectLink": "https://jamiedarbon.itch.io/snip-and-shear"
+                },
+                {
+                    "projectId": "DualPets",
+                    "projectName": "Snip and Shear",
+                    "projectDesc": "a web-based party toy where you make \"pets\" with your friends online, for 3+ players.<br>made for Global Game Jam 2022, with the theme \"duality\".<br>works especially well on phones / other touch enabled devices :D",
+                     "projectLink": "https://dualpets.valknight.xyz/"
+                },
+                {
+                    "projectId": "debugger",
+                    "projectName": "DEBUGGER",
+                    "projectDesc": "a 2D platformer you have to fix to play. click on objects to bring up the inspector, and make sure to balance resources between objects in the environment.<br>made at the Brighton GGJ Jam Site in 2020 (theme \"repair\").<br>team credits on <a href=\"https://globalgamejam.org/2020/games/debugger-2\">global game jam site</a><div id=\"js-eval\">setTimeout(function(){document.getElementById(\"content-cv\").scrollIntoView({behavior: \"smooth\", block: \"end\", inline: \"nearest\"})}, 1000);</div>",
+                    "projectLink": "https://vallerieknight.itch.io/ggj2020-debugger"
+                }
+            ]
+        }
+    ]
+}
