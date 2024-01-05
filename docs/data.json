@@ -68,8 +68,8 @@
                 {
                     "projectId": "unity-for-svg",
                     "projectName": "Unity for SVG",
-                    "projectDesc": "Unity Technologies 2022 Hackweek project - experiment in putting Unity WebGL builds in places they shouldn\\'t be.<br>worked on with one of the other interns on my team, it spawned from the reality that \"check out my game\" is a common way to install malware. we wanted to take advantage of modern browser sandboxing, while allowing for the ease of sharing that a simple zipped build provides.<br>the project started by packaging all the data required for a Unity build into a single HTML file, such that it could be loaded independently.<br>due to SVGs also allowing for JavaScript execution, we then ported this to be compatible with SVG, allowing for entire Unity builds to be shared on any social network that doesn\\t rasterize SVGs, with a live demo of this avaliable on cohost.org",
-                    "projectLink": "https://staging.cohostcdn.org/attachment/b5756ea5-f6dc-42ee-80b0-28515e3012d2/build.svg"
+                    "projectDesc": "Unity Technologies 2022 Hackweek project - experiment in putting Unity WebGL builds in places they shouldn\\'t be.<br>worked on with one of the other interns on my team, it spawned from the reality that \"check out my game\" is a common way to install malware. we wanted to take advantage of modern browser sandboxing, while allowing for the ease of sharing that a simple zipped build provides.<br>the project started by packaging all the data required for a Unity build into a single HTML file, such that it could be loaded independently.<br>due to SVGs also allowing for JavaScript execution, we then ported this to be compatible with SVG, allowing for entire Unity builds to be shared on any social network that doesn\\'t rasterize SVGs, with a live demo of this avaliable on cohost.org",
+                    "projectLink": "https://cohost.org/JadeMarker/post/234252-unity-for-svg"
                 },
                 {
                     "projectId": "cohost-py",
