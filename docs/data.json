@@ -87,7 +87,7 @@
         },
         {
             "sectionId": "jam-games",
-            "sectionName": "Jam Games / Hackathon Projects",
+            "sectionName": "Jam Projects",
             "content": [
                 {
                     "projectId": "roto-threeds",
