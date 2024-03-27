@@ -90,6 +90,12 @@
             "sectionName": "Jam Games",
             "content": [
                 {
+                    "projectId": "pride-fighters",
+                    "projectName": "Pride Fighters",
+                    "projectDesc": "Be gay, Fight evil.<br>schmup built in 6 days with some friends to learn Godot.<br>made with Godot",
+                    "projectLink": "https://last-sprout.itch.io/pride-fighters"
+                },
+                {
                     "projectId": "ship-and-shear",
                     "projectName": "Snip and Shear",
                     "projectDesc": "DOOM clone, where you must Snip and Shear until it is done.<br>made for Global Game Jam 2022, with the theme \"roots\"<br>made with Unity",
