@@ -90,6 +90,12 @@
             "sectionName": "Jam Games",
             "content": [
                 {
+                    "projectId": "re-dub",
+                    "projectName": "reDUB",
+                    "projectDesc": "Party game, where you have to dub over public domain video - but you've been given instructions on how to do it in a secret prompt on your phone. Your friends have to guess how you were told to do it.<br>made with Godot (TV client), ASP.NET (game server), and HTML5/CSS/JS (mobile client)",
+                    "projectLink": "https://vallerieknight.itch.io/redub"
+                },
+                {
                     "projectId": "pride-fighters",
                     "projectName": "Pride Fighters",
                     "projectDesc": "Be gay, Fight evil.<br>schmup built in 6 days with some friends to learn Godot.<br>made with Godot",
