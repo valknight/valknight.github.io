@@ -87,18 +87,18 @@
         },
         {
             "sectionId": "jam-games",
-            "sectionName": "Jam Games",
+            "sectionName": "Jam Games / Hackathon Projects",
             "content": [
                 {
                     "projectId": "roto-threeds",
                     "projectName": "Roto VR - 3DS Edition",
-                    "projectDesc": "I turned a 3DS into a steering wheel for a VR chair. Made using libctru, C++ on the 3DS, and Unity on the headset.",
+                    "projectDesc": "I turned a 3DS into a steering wheel for a VR chair. built at Hacksussex2024 in 24 hours.<br>made using libctru, C++ on the 3DS, and Unity on the headset.",
                     "projectLink": "https://www.youtube.com/watch?v=tvfbrNjYp2o"
-                }
+                },
                 {
                     "projectId": "re-dub",
                     "projectName": "reDUB",
-                    "projectDesc": "Party game, where you have to dub over public domain video - but you've been given instructions on how to do it in a secret prompt on your phone. Your friends have to guess how you were told to do it.<br>made with Godot, ASP.NET, and HTML5/CSS/JS",
+                    "projectDesc": "Party game, where you have to dub over public domain video - but you\\'ve been given instructions on how to do it in a secret prompt on your phone. Your friends have to guess how you were told to do it.<br>made with Godot, ASP.NET, and HTML5/CSS/JS",
                     "projectLink": "https://vallerieknight.itch.io/redub"
                 },
                 {
