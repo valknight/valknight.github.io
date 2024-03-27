@@ -90,18 +90,6 @@
             "sectionName": "Jam Games",
             "content": [
                 {
-                    "projectId": "redub",
-                    "projectName": "reDUB",
-                    "projectDesc": "Party game where players are sent secret prompts to their phone, and have to dub over public domain footage in the way provided.<br>made for GGJ24, with the theme \"make me laugh\".<br>TV game is made with Godot, backend server uses ASP.NET, and the mobile client makes use of tailwind CSS + some vanilla JS.",
-                    "projectLink": "https://vallerieknight.itch.io/redub"
-                },
-                {
-                    "projectId": "pride-fighters",
-                    "projectName": "Pride Fighters",
-                    "projectDesc": "Be gay, Fight evil.<br>schmup built in 6 days with some friends to learn Godot.<br>made with Godot",
-                    "projectLink": "https://last-sprout.itch.io/pride-fighters"
-                },
-                {
                     "projectId": "ship-and-shear",
                     "projectName": "Snip and Shear",
                     "projectDesc": "DOOM clone, where you must Snip and Shear until it is done.<br>made for Global Game Jam 2022, with the theme \"roots\"<br>made with Unity",
