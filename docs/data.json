@@ -72,6 +72,12 @@
                     "projectLink": "https://cohost.org/JadeMarker/post/234252-unity-for-svg"
                 },
                 {
+                    "projectId": "wine-notarisation",
+                    "projectName": "Windows Notarisation for macOS",
+                    "projectDesc": "Wine Packaging System for macOS, allowing Windows apps to be shipped on macOS without prompting macOS security prompts. Check it out being used in the Mac port of Catch Your Sacrifice, a game by some friends of mine.",
+                    "projectLink": "https://bloodmachine.itch.io/catch-your-sacrifice"
+                },
+                {
                     "projectId": "cohost-py",
                     "projectName": "cohost.py",
                     "projectDesc": "open source wrapper for cohost.org\\'s unofficial API<br>designed to make bots, tools, experiments, all that jazz",
