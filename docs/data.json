@@ -19,6 +19,12 @@
             "sectionName": "Socials",
             "content": [
                 {
+                    "projectId": "blog",
+                    "projectName": "blog",
+                    "projectDesc": "blog! i try to do long form writeups and things here",
+                    "projectLink": "https://blog.valknight.xyz"
+                },
+                {
                     "projectId": "itch",
                     "projectName": "itch.io",
                     "projectDesc": "games go here :)",
